@@ -1,0 +1,3 @@
+rootProject.name = 'mynativeejectapp'
+
+include ':app'
